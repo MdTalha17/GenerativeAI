@@ -1,6 +1,7 @@
 # Langchain Core
 langchain
 langchain-core
+langchain-community
 
 # OpenAI Integration
 langchain-openai
@@ -28,3 +29,5 @@ pandas
 
 streamlit
 grandalf
+PyPDF
+beautifulsoup4
