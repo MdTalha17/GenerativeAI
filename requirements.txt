@@ -31,3 +31,5 @@ streamlit
 grandalf
 PyPDF
 beautifulsoup4
+langchain-text-splitters
+langchain-experimental
