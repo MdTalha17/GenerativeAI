@@ -33,3 +33,4 @@ PyPDF
 beautifulsoup4
 langchain-text-splitters
 langchain-experimental
+chromadb
