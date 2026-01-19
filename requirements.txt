@@ -36,3 +36,6 @@ langchain-experimental
 chromadb
 wikipedia
 faiss-cpu
+
+youtube-transcript-api 
+tiktoken 
